@@ -1,0 +1,5 @@
+data.bin
+portable_binary
+*.exe
+*.o
+*.pdb
